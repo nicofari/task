@@ -1,0 +1,8 @@
+.col-md-1, .col-md-2, .col-md-4 {
+    width: 200px;
+    height: 200px;
+    border:1px solid red;
+    padding: 10px;
+    margin: 10px;
+}
+
